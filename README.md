@@ -1,4 +1,4 @@
-# Mars-real-estate
+# Mars real estate
 
 MarsRealEstate is a simple demo app using ViewModel & LiveData with Retrofit, Glide and Moshi in Kotlin.
 

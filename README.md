@@ -18,3 +18,7 @@ It leverages the following components from the Jetpack library:
 It was implemented within the Developing Android Apps with Kotlin on Udacity, the code is based on this repository:
 
 > https://github.com/udacity/andfun-kotlin-mars-real-estate/tree/Starter-Code
+
+## Screenshot
+
+![](https://drive.google.com/uc?export=view&id=1luJdlMpieA9pEDZqV_xz3sgx3a8vrT1W)
